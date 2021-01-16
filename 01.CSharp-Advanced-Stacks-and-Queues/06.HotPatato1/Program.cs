@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace _07.HotPatato
+namespace _07.HotPatato1
 {
     class Program
     {
@@ -10,22 +10,22 @@ namespace _07.HotPatato
             string[] names = Console.ReadLine().Split();
             int n = int.Parse(Console.ReadLine());
             Queue<string> kids = new Queue<string>(names);
-            int counter = 0;
+            int counter = 1;
             while (kids.Count > 1)
             {
-                counter++;
-                string kid = kids.Dequeue();
+                string currentName = kids.Dequeue();
                 if (counter == n)
                 {
+                    Console.WriteLine($"Removed {currentName}");
                     counter = 0;
-                    Console.WriteLine("Removed " + kid);
                 }
                 else
                 {
-                    kids.Enqueue(kid);
+                    kids.Enqueue(currentName);
                 }
+                counter++;
             }
-            Console.WriteLine("Last is " + kids.Dequeue());
+            Console.WriteLine($"Last is {kids.Dequeue()}");
         }
     }
 }
