@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.ReverseStrings1", "01.Re
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.ReverseStrings2", "01.ReverseStrings2\01.ReverseStrings2.csproj", "{36699801-C389-47C6-A613-B00A466B9315}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.StackSum", "02.StackSum\02.StackSum.csproj", "{E1318185-1D6F-447F-B862-5F507BFC7854}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{36699801-C389-47C6-A613-B00A466B9315}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{36699801-C389-47C6-A613-B00A466B9315}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{36699801-C389-47C6-A613-B00A466B9315}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1318185-1D6F-447F-B862-5F507BFC7854}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1318185-1D6F-447F-B862-5F507BFC7854}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1318185-1D6F-447F-B862-5F507BFC7854}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1318185-1D6F-447F-B862-5F507BFC7854}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
