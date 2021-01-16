@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.PrintEvenNumbers", "05.P
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.PrintEvenNumbers1", "05.PrintEvenNumbers1\05.PrintEvenNumbers1.csproj", "{E84BA809-8363-470C-9427-2DEADE2CDB6A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.Supermarket", "06.Supermarket\06.Supermarket.csproj", "{A70717C0-B31A-4CBE-A8D8-6FCCC244997A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{E84BA809-8363-470C-9427-2DEADE2CDB6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E84BA809-8363-470C-9427-2DEADE2CDB6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E84BA809-8363-470C-9427-2DEADE2CDB6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A70717C0-B31A-4CBE-A8D8-6FCCC244997A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A70717C0-B31A-4CBE-A8D8-6FCCC244997A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A70717C0-B31A-4CBE-A8D8-6FCCC244997A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A70717C0-B31A-4CBE-A8D8-6FCCC244997A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
