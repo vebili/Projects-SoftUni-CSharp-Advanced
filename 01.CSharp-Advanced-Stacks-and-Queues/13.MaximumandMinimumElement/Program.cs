@@ -43,6 +43,7 @@ namespace _13.MaximumandMinimumElement
                 }
             }
             Console.WriteLine(string.Join(", ", stack));
+            Console.WriteLine(string.Join(", ", stack));
         }
     }
 }
