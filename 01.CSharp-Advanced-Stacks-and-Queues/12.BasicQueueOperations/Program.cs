@@ -41,6 +41,7 @@ namespace _12.BasicQueueOperations
             else
             {
                 Console.WriteLine(stack.Min());
+                Console.WriteLine(stack.Min());
             }
         }
     }
