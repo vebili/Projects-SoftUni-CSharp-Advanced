@@ -9,33 +9,35 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.ReverseStrings1", "01.Re
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.ReverseStrings2", "01.ReverseStrings2\01.ReverseStrings2.csproj", "{36699801-C389-47C6-A613-B00A466B9315}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.StackSum", "02.StackSum\02.StackSum.csproj", "{E1318185-1D6F-447F-B862-5F507BFC7854}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.StackSum", "02.StackSum\02.StackSum.csproj", "{E1318185-1D6F-447F-B862-5F507BFC7854}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.SimpleCalculator", "03.SimpleCalculator\03.SimpleCalculator.csproj", "{5BFE41F2-533C-4810-A67D-D3514572733A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.SimpleCalculator", "03.SimpleCalculator\03.SimpleCalculator.csproj", "{5BFE41F2-533C-4810-A67D-D3514572733A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.SimpleCalculator1", "03.SimpleCalculator1\03.SimpleCalculator1.csproj", "{5695CA33-A19E-4543-AB89-C12B4E54A272}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.SimpleCalculator1", "03.SimpleCalculator1\03.SimpleCalculator1.csproj", "{5695CA33-A19E-4543-AB89-C12B4E54A272}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.StackSum1", "02.StackSum1\02.StackSum1.csproj", "{35C82221-838E-4A8E-BBEC-193961345986}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.StackSum1", "02.StackSum1\02.StackSum1.csproj", "{35C82221-838E-4A8E-BBEC-193961345986}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.MatchingBrackets", "04.MatchingBrackets\04.MatchingBrackets.csproj", "{5DDDE5F5-8717-46AB-9CC2-20FAFCC9BE03}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.MatchingBrackets", "04.MatchingBrackets\04.MatchingBrackets.csproj", "{5DDDE5F5-8717-46AB-9CC2-20FAFCC9BE03}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.MatchingBrackets1", "04.MatchingBrackets1\04.MatchingBrackets1.csproj", "{904056A9-AAD7-4F79-994A-3CF182EB8439}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.MatchingBrackets1", "04.MatchingBrackets1\04.MatchingBrackets1.csproj", "{904056A9-AAD7-4F79-994A-3CF182EB8439}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.PrintEvenNumbers", "05.PrintEvenNumbers\05.PrintEvenNumbers.csproj", "{54D9AD2E-678F-4B79-948D-3D66B4A9B8CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.PrintEvenNumbers", "05.PrintEvenNumbers\05.PrintEvenNumbers.csproj", "{54D9AD2E-678F-4B79-948D-3D66B4A9B8CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.PrintEvenNumbers1", "05.PrintEvenNumbers1\05.PrintEvenNumbers1.csproj", "{E84BA809-8363-470C-9427-2DEADE2CDB6A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.PrintEvenNumbers1", "05.PrintEvenNumbers1\05.PrintEvenNumbers1.csproj", "{E84BA809-8363-470C-9427-2DEADE2CDB6A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.Supermarket", "06.Supermarket\06.Supermarket.csproj", "{A70717C0-B31A-4CBE-A8D8-6FCCC244997A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.Supermarket", "06.Supermarket\06.Supermarket.csproj", "{A70717C0-B31A-4CBE-A8D8-6FCCC244997A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.Supermarket1", "06.Supermarket1\06.Supermarket1.csproj", "{F68DF0EF-283D-42D7-9CB1-572CFEB3DE18}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.Supermarket1", "06.Supermarket1\06.Supermarket1.csproj", "{F68DF0EF-283D-42D7-9CB1-572CFEB3DE18}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.HotPatato", "07.HotPatato\07.HotPatato.csproj", "{49C290E2-BC94-423A-AA7D-061CC2C42AD9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07.HotPatato", "07.HotPatato\07.HotPatato.csproj", "{49C290E2-BC94-423A-AA7D-061CC2C42AD9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.HotPatato1", "06.HotPatato1\07.HotPatato1.csproj", "{A4B07008-CCFF-4667-BB80-EC8B66FCBAEC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07.HotPatato1", "06.HotPatato1\07.HotPatato1.csproj", "{A4B07008-CCFF-4667-BB80-EC8B66FCBAEC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.TrafficJam", "08.TrafficJam\08.TrafficJam.csproj", "{85F0FE10-A49B-4291-9B54-AC235B2457F5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08.TrafficJam", "08.TrafficJam\08.TrafficJam.csproj", "{85F0FE10-A49B-4291-9B54-AC235B2457F5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.TrafficJam1", "08.TrafficJam1\08.TrafficJam1.csproj", "{5BE74405-8811-4A7F-AF44-C51752DF4EF1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08.TrafficJam1", "08.TrafficJam1\08.TrafficJam1.csproj", "{5BE74405-8811-4A7F-AF44-C51752DF4EF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.BasicStackOperations", "001.BasicStackOperations\11.BasicStackOperations.csproj", "{656181FC-DC63-48DF-A03E-709D18F41734}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +113,10 @@ Global
 		{5BE74405-8811-4A7F-AF44-C51752DF4EF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5BE74405-8811-4A7F-AF44-C51752DF4EF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5BE74405-8811-4A7F-AF44-C51752DF4EF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{656181FC-DC63-48DF-A03E-709D18F41734}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{656181FC-DC63-48DF-A03E-709D18F41734}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{656181FC-DC63-48DF-A03E-709D18F41734}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{656181FC-DC63-48DF-A03E-709D18F41734}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
