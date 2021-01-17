@@ -16,24 +16,20 @@ namespace _12.BasicQueueOperations
             int n = input[0];
             int s = input[1];
             int x = input[2];
-
             int[] numbers = Console.ReadLine()
                                     .Split()
                                     .Select(int.Parse)
                                     .ToArray();
-
             int numbersToPush = Math.Min(n, numbers.Length);
             for (int i = 0; i < numbersToPush; i++)
             {
                 stack.Push(numbers[i]);
             }
-
             int numbersToPop = Math.Min(s, stack.Count);
             for (int i = 0; i < numbersToPop; i++)
             {
                 stack.Pop();
             }
-
             if (stack.Count == 0)
             {
                 Console.WriteLine(0);
