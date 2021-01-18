@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace _12.BasicQueueOperations
+namespace _01.BasicStackOperations
 {
     class Program
     {
