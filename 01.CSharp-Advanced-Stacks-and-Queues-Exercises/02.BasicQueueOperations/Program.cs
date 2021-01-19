@@ -8,39 +8,36 @@ namespace _02.BasicQueueOperations
     {
         static void Main(string[] args)
         {
-            Stack<int> stack = new Stack<int>();
+            Queue<int> queue = new Queue<int>();
             int[] input = Console.ReadLine()
-                                .Split()
-                                .Select(int.Parse)
-                                .ToArray();
-            int n = input[0];
-            int s = input[1];
-            int x = input[2];
+                                 .Split()
+                                 .Select(int.Parse)
+                                 .ToArray();
             int[] numbers = Console.ReadLine()
-                                    .Split()
-                                    .Select(int.Parse)
-                                    .ToArray();
-            int numbersToPush = Math.Min(n, numbers.Length);
-            for (int i = 0; i < numbersToPush; i++)
+                                 .Split()
+                                 .Select(int.Parse)
+                                 .ToArray();
+            int numbersToAdd = Math.Min(input[0], numbers.Length);
+            for (int i = 0; i < numbersToAdd; i++)
             {
-                stack.Push(numbers[i]);
+                queue.Enqueue(numbers[i]);
             }
-            int numbersToPop = Math.Min(s, stack.Count);
-            for (int i = 0; i < numbersToPop; i++)
+            int numbersToRemove = Math.Min(input[1], queue.Count);
+            for (int i = 0; i < numbersToRemove; i++)
             {
-                stack.Pop();
+                queue.Dequeue();
             }
-            if (stack.Count == 0)
+            if (queue.Count == 0)
             {
                 Console.WriteLine(0);
             }
-            else if (stack.Contains(x))
+            else if (queue.Contains(input[2]))
             {
                 Console.WriteLine("true");
             }
             else
             {
-                Console.WriteLine(stack.Min());
+                Console.WriteLine(queue.Min());
             }
         }
     }
