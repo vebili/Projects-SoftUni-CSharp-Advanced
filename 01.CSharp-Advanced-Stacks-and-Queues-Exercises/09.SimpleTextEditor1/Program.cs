@@ -12,6 +12,7 @@ namespace _09.SimpleTextEditor1
             Stack<string> text = new Stack<string>();
             StringBuilder strBuild = new StringBuilder();
             text.Push(strBuild.ToString());
+
             for (int i = 0; i < n; i++)
             {
                 string[] input = Console.ReadLine().Split();
