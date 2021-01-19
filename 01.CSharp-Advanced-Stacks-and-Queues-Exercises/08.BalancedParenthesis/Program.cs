@@ -21,18 +21,29 @@ namespace _08.BalancedParenthesis
             }
             for (int i = 0; i < input.Length; i++)
             {
-                if (parentheses.ContainsKey(input[i]))  // opening parenthesis
+                if (parentheses.ContainsKey(input[i])) // opening parenthesis
+                {
                     parenthesesStack.Push(input[i]);
+                }
                 else if (parenthesesStack.Count == 0 || input[i] != parentheses[parenthesesStack.Peek()])   // non-matching opening & closing parentheses
                 {
                     isBalanced = false;
                     break;
                 }
                 else if (input[i] == parentheses[parenthesesStack.Peek()])  // matching opening & closing parentheses
+                {
                     parenthesesStack.Pop();
+                }
+
             }
-            if (isBalanced) Console.WriteLine("YES");
-            else Console.WriteLine("NO");
+            if (isBalanced)
+            {
+                Console.WriteLine("YES");
+            }
+            else
+            {
+                Console.WriteLine("NO");
+            }
         }
     }
 }
