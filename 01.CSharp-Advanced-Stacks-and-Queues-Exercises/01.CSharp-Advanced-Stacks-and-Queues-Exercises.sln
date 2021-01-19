@@ -29,7 +29,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.SimpleTextEditor1", "09.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.Crossroads", "10.Crossroads\10.Crossroads.csproj", "{6C907A5F-608D-49EE-B488-E48A83C12743}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.Crossroads1", "Crossroads1\10.Crossroads1.csproj", "{B5BFFE39-F46B-4C52-838B-F6993FCF9F24}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10.Crossroads1", "10.Crossroads1\10.Crossroads1.csproj", "{52B413CD-B772-4106-B9D1-C446856E240F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -89,10 +89,10 @@ Global
 		{6C907A5F-608D-49EE-B488-E48A83C12743}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6C907A5F-608D-49EE-B488-E48A83C12743}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6C907A5F-608D-49EE-B488-E48A83C12743}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B5BFFE39-F46B-4C52-838B-F6993FCF9F24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B5BFFE39-F46B-4C52-838B-F6993FCF9F24}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B5BFFE39-F46B-4C52-838B-F6993FCF9F24}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B5BFFE39-F46B-4C52-838B-F6993FCF9F24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52B413CD-B772-4106-B9D1-C446856E240F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52B413CD-B772-4106-B9D1-C446856E240F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52B413CD-B772-4106-B9D1-C446856E240F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52B413CD-B772-4106-B9D1-C446856E240F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
