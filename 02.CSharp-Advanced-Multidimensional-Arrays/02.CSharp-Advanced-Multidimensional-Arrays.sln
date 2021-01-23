@@ -3,7 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{E8EEA9E9-C1FF-4F4F-922C-47A9ED061B9C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test", "Test\Test.csproj", "{E8EEA9E9-C1FF-4F4F-922C-47A9ED061B9C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.SumMatrixElements", "01.SumMatrixElements\01.SumMatrixElements.csproj", "{395FB61E-8E39-4E8E-9404-208B78FADB18}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.SumMatrixElements1", "01.SumMatrixElements1\01.SumMatrixElements1.csproj", "{CE65F511-059E-40C2-BC29-DD707488DF27}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.SumMatrixColumns", "02.SumMatrixColumns\02.SumMatrixColumns.csproj", "{86E40E91-EDD6-4643-AD61-5F24B6FD714C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.SumMatrixColumns1", "02.SumMatrixColumns1\02.SumMatrixColumns1.csproj", "{18144CF3-F7C7-42BC-857E-92F1046B3726}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +23,22 @@ Global
 		{E8EEA9E9-C1FF-4F4F-922C-47A9ED061B9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E8EEA9E9-C1FF-4F4F-922C-47A9ED061B9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E8EEA9E9-C1FF-4F4F-922C-47A9ED061B9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{395FB61E-8E39-4E8E-9404-208B78FADB18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{395FB61E-8E39-4E8E-9404-208B78FADB18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{395FB61E-8E39-4E8E-9404-208B78FADB18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{395FB61E-8E39-4E8E-9404-208B78FADB18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE65F511-059E-40C2-BC29-DD707488DF27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE65F511-059E-40C2-BC29-DD707488DF27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE65F511-059E-40C2-BC29-DD707488DF27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE65F511-059E-40C2-BC29-DD707488DF27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86E40E91-EDD6-4643-AD61-5F24B6FD714C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86E40E91-EDD6-4643-AD61-5F24B6FD714C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86E40E91-EDD6-4643-AD61-5F24B6FD714C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86E40E91-EDD6-4643-AD61-5F24B6FD714C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18144CF3-F7C7-42BC-857E-92F1046B3726}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18144CF3-F7C7-42BC-857E-92F1046B3726}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18144CF3-F7C7-42BC-857E-92F1046B3726}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18144CF3-F7C7-42BC-857E-92F1046B3726}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
