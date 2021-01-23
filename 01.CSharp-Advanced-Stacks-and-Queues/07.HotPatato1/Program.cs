@@ -7,7 +7,8 @@ namespace _07.HotPatato1
     {
         static void Main(string[] args)
         {
-            string[] names = Console.ReadLine().Split();
+            string[] names = Console.ReadLine()
+                .Split();
             int n = int.Parse(Console.ReadLine());
             Queue<string> kids = new Queue<string>(names);
             int counter = 1;
