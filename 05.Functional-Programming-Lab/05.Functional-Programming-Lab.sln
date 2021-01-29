@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.FilterByAge", "05.Filter
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.SortEvenNumbers1", "01.SortEvenNumbers1\01.SortEvenNumbers1.csproj", "{5683003A-05A3-439E-B422-230BD826EB2B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.SumNumbers1", "02.SumNumbers1\02.SumNumbers1.csproj", "{67B7AB31-86D9-4140-9392-543AC1D7A5F5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{5683003A-05A3-439E-B422-230BD826EB2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5683003A-05A3-439E-B422-230BD826EB2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5683003A-05A3-439E-B422-230BD826EB2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67B7AB31-86D9-4140-9392-543AC1D7A5F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67B7AB31-86D9-4140-9392-543AC1D7A5F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67B7AB31-86D9-4140-9392-543AC1D7A5F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67B7AB31-86D9-4140-9392-543AC1D7A5F5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
