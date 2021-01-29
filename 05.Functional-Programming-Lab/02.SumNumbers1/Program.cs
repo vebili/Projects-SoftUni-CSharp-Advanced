@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 
 namespace _02.SumNumbers1
 {
@@ -6,7 +7,11 @@ namespace _02.SumNumbers1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string input = Console.ReadLine();
+            Func<string, int> parse = str => int.Parse(str);
+            int[] numbers = input.Split(", ", StringSplitOptions.RemoveEmptyEntries).Select(parse).ToArray();
+            Console.WriteLine(numbers.Length);
+            Console.WriteLine(numbers.Sum());
         }
     }
 }
