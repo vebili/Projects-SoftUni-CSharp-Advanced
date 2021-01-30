@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 
 namespace _06.ReverseAndExclude
 {
@@ -6,7 +7,14 @@ namespace _06.ReverseAndExclude
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string input = Console.ReadLine();
+            int divider = int.Parse(Console.ReadLine());
+
+            Console.WriteLine(string.Join(" ", input
+                .Split(" ", StringSplitOptions.RemoveEmptyEntries)
+                .Select(int.Parse)
+                .Reverse()
+                .Where(n => n % divider != 0)));
         }
     }
 }
