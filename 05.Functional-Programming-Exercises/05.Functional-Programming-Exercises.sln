@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.ActionPrint", "01.Action
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.ActionPrint1", "01.ActionPrint1\01.ActionPrint1.csproj", "{943FB617-0A93-4000-821B-127D79B79B85}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.KnightsofHonor", "02.KnightsofHonor\02.KnightsofHonor.csproj", "{98EE4FCC-C4AC-4C3E-A67F-8BD33EB79A45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.KnightsofHonor1", "02.KnightsofHonor1\02.KnightsofHonor1.csproj", "{AC1CB171-E27F-4684-938D-37F37848CC48}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{943FB617-0A93-4000-821B-127D79B79B85}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{943FB617-0A93-4000-821B-127D79B79B85}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{943FB617-0A93-4000-821B-127D79B79B85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98EE4FCC-C4AC-4C3E-A67F-8BD33EB79A45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98EE4FCC-C4AC-4C3E-A67F-8BD33EB79A45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98EE4FCC-C4AC-4C3E-A67F-8BD33EB79A45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98EE4FCC-C4AC-4C3E-A67F-8BD33EB79A45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC1CB171-E27F-4684-938D-37F37848CC48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC1CB171-E27F-4684-938D-37F37848CC48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC1CB171-E27F-4684-938D-37F37848CC48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC1CB171-E27F-4684-938D-37F37848CC48}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

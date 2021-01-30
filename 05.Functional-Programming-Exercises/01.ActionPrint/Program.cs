@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 
 namespace _01.ActionPrint
 {
@@ -6,7 +7,11 @@ namespace _01.ActionPrint
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Action<string> Print = msg => Console.WriteLine(msg);
+            Console.ReadLine()
+                .Split(" ", StringSplitOptions.RemoveEmptyEntries)
+                .ToList()
+                .ForEach(Print);
         }
     }
 }
