@@ -19,6 +19,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.FindEvensorOdds", "04.Fi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.FindEvensorOdds1", "04.FindEvensorOdds1\04.FindEvensorOdds1.csproj", "{F84CC50B-6E7C-424F-B787-3E476555342A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.AppliedArithmetics", "05.AppliedArithmetics\05.AppliedArithmetics.csproj", "{9427B778-B9D1-4846-9905-440ECCB9FA4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.AppliedArithmetics1", "05.AppliedArithmetics1\05.AppliedArithmetics1.csproj", "{4887DE90-9B40-42D9-B609-71A7E49EC565}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +61,14 @@ Global
 		{F84CC50B-6E7C-424F-B787-3E476555342A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F84CC50B-6E7C-424F-B787-3E476555342A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F84CC50B-6E7C-424F-B787-3E476555342A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9427B778-B9D1-4846-9905-440ECCB9FA4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9427B778-B9D1-4846-9905-440ECCB9FA4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9427B778-B9D1-4846-9905-440ECCB9FA4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9427B778-B9D1-4846-9905-440ECCB9FA4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4887DE90-9B40-42D9-B609-71A7E49EC565}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4887DE90-9B40-42D9-B609-71A7E49EC565}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4887DE90-9B40-42D9-B609-71A7E49EC565}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4887DE90-9B40-42D9-B609-71A7E49EC565}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
