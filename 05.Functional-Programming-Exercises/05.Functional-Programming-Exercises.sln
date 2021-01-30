@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.AppliedArithmetics", "05
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.AppliedArithmetics1", "05.AppliedArithmetics1\05.AppliedArithmetics1.csproj", "{4887DE90-9B40-42D9-B609-71A7E49EC565}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.ReverseAndExclude", "06.ReverseAndExclude\06.ReverseAndExclude.csproj", "{FBED709A-35DB-46BA-BE8A-44CB28FE4237}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.ReverseAndExclude1", "06.ReverseAndExclude1\06.ReverseAndExclude1.csproj", "{C832E350-A0AB-42B0-91A1-72B987CF1EED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +73,14 @@ Global
 		{4887DE90-9B40-42D9-B609-71A7E49EC565}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4887DE90-9B40-42D9-B609-71A7E49EC565}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4887DE90-9B40-42D9-B609-71A7E49EC565}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBED709A-35DB-46BA-BE8A-44CB28FE4237}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBED709A-35DB-46BA-BE8A-44CB28FE4237}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBED709A-35DB-46BA-BE8A-44CB28FE4237}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBED709A-35DB-46BA-BE8A-44CB28FE4237}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C832E350-A0AB-42B0-91A1-72B987CF1EED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C832E350-A0AB-42B0-91A1-72B987CF1EED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C832E350-A0AB-42B0-91A1-72B987CF1EED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C832E350-A0AB-42B0-91A1-72B987CF1EED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
