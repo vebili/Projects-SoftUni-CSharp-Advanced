@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 
 namespace _02.KnightsofHonor
 {
@@ -6,7 +7,11 @@ namespace _02.KnightsofHonor
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Action<string> Print = msg => Console.WriteLine($"Sir {msg}");
+            Console.ReadLine()
+                .Split(" ", StringSplitOptions.RemoveEmptyEntries)
+                .ToList()
+                .ForEach(Print);
         }
     }
 }
