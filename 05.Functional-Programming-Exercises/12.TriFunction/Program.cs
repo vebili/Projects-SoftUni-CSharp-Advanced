@@ -15,7 +15,7 @@ namespace _12.TriFunction
             Func<string[], Func<string, int, bool>, string> FindFirstName =
                         (names, IsSumEqualASCII) => names.FirstOrDefault(n => IsSumEqual(n, targetASCII));
             string result = FindFirstName(inputNames, IsSumEqual);
-            Print(result);
+            Console.WriteLine(result);
         }
     }
 }
