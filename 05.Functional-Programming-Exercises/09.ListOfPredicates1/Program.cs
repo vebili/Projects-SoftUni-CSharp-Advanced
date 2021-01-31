@@ -8,7 +8,10 @@ namespace _09.ListOfPredicates1
         static void Main(string[] args)
         {
             int n = int.Parse(Console.ReadLine());
-            int[] dividers = Console.ReadLine().Split(" ", StringSplitOptions.RemoveEmptyEntries).Select(int.Parse).ToArray();
+            int[] dividers = Console.ReadLine()
+                .Split(" ", StringSplitOptions.RemoveEmptyEntries)
+                .Select(int.Parse)
+                .ToArray();
             Func<int[], int, bool> tester = DivisionChecker;
             for (int i = 1; i <= n; i++)
             {
