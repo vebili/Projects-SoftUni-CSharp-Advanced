@@ -43,7 +43,8 @@ namespace _11.ThePartyReservationFilterModule
                 guests.RemoveAll(predicate);
             }
             Console.WriteLine(guests);
-        }        private static Predicate<string> GetPredicate(string filterType, string filterParameter)
+        }        
+        private static Predicate<string> GetPredicate(string filterType, string filterParameter)
         {
             if (filterType == "Starts with")
             {
