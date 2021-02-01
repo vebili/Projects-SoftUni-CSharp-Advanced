@@ -5,8 +5,6 @@ VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.OddLines", "01.OddLines\01.OddLines.csproj", "{D3A8D78D-7F85-49BD-B64D-2A10225D1578}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.OddLines1", "01.OddLines1\01.OddLines1.csproj", "{11FF2EBB-23DD-4A38-A1D1-258CC29F2714}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,10 +15,6 @@ Global
 		{D3A8D78D-7F85-49BD-B64D-2A10225D1578}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D3A8D78D-7F85-49BD-B64D-2A10225D1578}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D3A8D78D-7F85-49BD-B64D-2A10225D1578}.Release|Any CPU.Build.0 = Release|Any CPU
-		{11FF2EBB-23DD-4A38-A1D1-258CC29F2714}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{11FF2EBB-23DD-4A38-A1D1-258CC29F2714}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{11FF2EBB-23DD-4A38-A1D1-258CC29F2714}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{11FF2EBB-23DD-4A38-A1D1-258CC29F2714}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
