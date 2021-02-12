@@ -6,4 +6,10 @@
     <RootNamespace>_02.LineNumbers</RootNamespace>
   </PropertyGroup>
 
+	<ItemGroup>
+		<None Update="files\02.LineNumbers\Input.txt">
+			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
+		</None>
+	</ItemGroup>
+	
 </Project>
