@@ -1,4 +1,5 @@
 # Projects-SoftUni-Advanced
+![visitors](https://visitor-badge.glitch.me/badge?page_id=vebili.Projects-SoftUni-CSharp-Advanced)<br/>
 C# Advanced SoftUni Solutions <br>
 All lab problems and exercises from this module, including different cases in exams.<br>
 01.Stacks-and-Queues<br>
