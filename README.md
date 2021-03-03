@@ -7,7 +7,7 @@ All lab problems and exercises from this module, including different cases in ex
 03.Sets-and-Dictionaries-Advanced<br/>
 04.Streams-Files-and-Directories<br/>
 05.Functional-Programming<br/>
-<br/>
+06.Defining-Classes<br/>
 <br/>
 <br/>
 <br/>
