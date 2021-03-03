@@ -5,6 +5,6 @@ All lab problems and exercises from this module, including different cases in ex
 01.Stacks-and-Queues<br>
 02.Multidimensional-Arrays<br>
 03.Sets-and-Dictionaries-Advanced<br>
-04.CSS-Box-Model<br>
+04.Streams-Files-and-Directories<br>
 05.Position-Float<br>
 <br><br><br><br>
