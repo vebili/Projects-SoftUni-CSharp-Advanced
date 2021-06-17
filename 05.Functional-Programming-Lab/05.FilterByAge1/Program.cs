@@ -27,13 +27,7 @@ namespace _05.FilterByAge1
         }
         private static Action<KeyValuePair<string, int>> CreatePrinter(string format)
         {
-            //return format switch
-            //{
-            //    "name age" => kvp => Console.WriteLine($"{kvp.Key} - {kvp.Value}"),
-            //    "name" => kvp => Console.WriteLine($"{kvp.Key}"),
-            //    "age" => kvp => Console.WriteLine($"{kvp.Value}"),
-            //    _ => null,
-            //};
+            
             switch (format)
             {
                 case "name age":
