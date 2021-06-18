@@ -3,53 +3,51 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.ActionPrint", "01.ActionPrint\01.ActionPrint.csproj", "{DC0445F0-63A3-47E0-B31A-68053CAD883F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.ActionPrint", "01.ActionPrint\01.ActionPrint.csproj", "{DC0445F0-63A3-47E0-B31A-68053CAD883F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.ActionPrint1", "01.ActionPrint1\01.ActionPrint1.csproj", "{943FB617-0A93-4000-821B-127D79B79B85}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.ActionPrint1", "01.ActionPrint1\01.ActionPrint1.csproj", "{943FB617-0A93-4000-821B-127D79B79B85}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.KnightsofHonor", "02.KnightsofHonor\02.KnightsofHonor.csproj", "{98EE4FCC-C4AC-4C3E-A67F-8BD33EB79A45}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.KnightsofHonor", "02.KnightsofHonor\02.KnightsofHonor.csproj", "{98EE4FCC-C4AC-4C3E-A67F-8BD33EB79A45}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.KnightsofHonor1", "02.KnightsofHonor1\02.KnightsofHonor1.csproj", "{AC1CB171-E27F-4684-938D-37F37848CC48}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.KnightsofHonor1", "02.KnightsofHonor1\02.KnightsofHonor1.csproj", "{AC1CB171-E27F-4684-938D-37F37848CC48}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.CustomMinFunction", "03.CustomMinFunction\03.CustomMinFunction.csproj", "{B3FD61FB-20AF-4297-A4E0-A72C4407CC2E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.CustomMinFunction", "03.CustomMinFunction\03.CustomMinFunction.csproj", "{B3FD61FB-20AF-4297-A4E0-A72C4407CC2E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.CustomMinFunction1", "03.CustomMinFunction1\03.CustomMinFunction1.csproj", "{241AE3D8-95F3-415C-9347-AD3DBE4E6FDB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.CustomMinFunction1", "03.CustomMinFunction1\03.CustomMinFunction1.csproj", "{241AE3D8-95F3-415C-9347-AD3DBE4E6FDB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.FindEvensorOdds", "04.FindEvensorOdds\04.FindEvensorOdds.csproj", "{182895B8-06EC-47D8-B7BB-175E8F6A72E7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.FindEvensorOdds", "04.FindEvensorOdds\04.FindEvensorOdds.csproj", "{182895B8-06EC-47D8-B7BB-175E8F6A72E7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.FindEvensorOdds1", "04.FindEvensorOdds1\04.FindEvensorOdds1.csproj", "{F84CC50B-6E7C-424F-B787-3E476555342A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.FindEvensorOdds1", "04.FindEvensorOdds1\04.FindEvensorOdds1.csproj", "{F84CC50B-6E7C-424F-B787-3E476555342A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.AppliedArithmetics", "05.AppliedArithmetics\05.AppliedArithmetics.csproj", "{9427B778-B9D1-4846-9905-440ECCB9FA4D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.AppliedArithmetics", "05.AppliedArithmetics\05.AppliedArithmetics.csproj", "{9427B778-B9D1-4846-9905-440ECCB9FA4D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.AppliedArithmetics1", "05.AppliedArithmetics1\05.AppliedArithmetics1.csproj", "{4887DE90-9B40-42D9-B609-71A7E49EC565}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.AppliedArithmetics1", "05.AppliedArithmetics1\05.AppliedArithmetics1.csproj", "{4887DE90-9B40-42D9-B609-71A7E49EC565}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.ReverseAndExclude", "06.ReverseAndExclude\06.ReverseAndExclude.csproj", "{FBED709A-35DB-46BA-BE8A-44CB28FE4237}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.ReverseAndExclude", "06.ReverseAndExclude\06.ReverseAndExclude.csproj", "{FBED709A-35DB-46BA-BE8A-44CB28FE4237}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.ReverseAndExclude1", "06.ReverseAndExclude1\06.ReverseAndExclude1.csproj", "{C832E350-A0AB-42B0-91A1-72B987CF1EED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.ReverseAndExclude1", "06.ReverseAndExclude1\06.ReverseAndExclude1.csproj", "{C832E350-A0AB-42B0-91A1-72B987CF1EED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.PredicateForNames", "07.PredicateForNames\07.PredicateForNames.csproj", "{B3224058-E12D-47E5-BF56-B7FB595025AA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07.PredicateForNames", "07.PredicateForNames\07.PredicateForNames.csproj", "{B3224058-E12D-47E5-BF56-B7FB595025AA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.PredicateForNames1", "07.PredicateForNames1\07.PredicateForNames1.csproj", "{6420BDCC-CE81-4FAC-A18C-91415EBC737B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07.PredicateForNames1", "07.PredicateForNames1\07.PredicateForNames1.csproj", "{6420BDCC-CE81-4FAC-A18C-91415EBC737B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.CustomComparator", "08.CustomComparator\08.CustomComparator.csproj", "{410C76E5-EBB7-4AA5-BAA4-8F38521EE5CB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08.CustomComparator", "08.CustomComparator\08.CustomComparator.csproj", "{410C76E5-EBB7-4AA5-BAA4-8F38521EE5CB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.CustomComparator1", "08.CustomComparator1\08.CustomComparator1.csproj", "{EEBA5596-4F7E-4E9C-9399-5DE1356C7C72}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08.CustomComparator1", "08.CustomComparator1\08.CustomComparator1.csproj", "{EEBA5596-4F7E-4E9C-9399-5DE1356C7C72}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.ListOfPredicates", "09.ListOfPredicates\09.ListOfPredicates.csproj", "{EE697575-5264-4B0A-8EC0-9668885F1959}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09.ListOfPredicates", "09.ListOfPredicates\09.ListOfPredicates.csproj", "{EE697575-5264-4B0A-8EC0-9668885F1959}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.ListOfPredicates1", "09.ListOfPredicates1\09.ListOfPredicates1.csproj", "{3409298E-D153-4CB2-84CE-992E2A1AE345}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09.ListOfPredicates1", "09.ListOfPredicates1\09.ListOfPredicates1.csproj", "{3409298E-D153-4CB2-84CE-992E2A1AE345}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.PredicateParty", "10.PredicateParty!\10.PredicateParty.csproj", "{1B78F00F-4158-44E3-B8E6-82FC7EEB6D44}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10.PredicateParty", "10.PredicateParty!\10.PredicateParty.csproj", "{1B78F00F-4158-44E3-B8E6-82FC7EEB6D44}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.PredicateParty1", "10.PredicateParty1\10.PredicateParty1.csproj", "{C0609243-52B0-4EB2-B9BB-229C3F52E814}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10.PredicateParty1", "10.PredicateParty1\10.PredicateParty1.csproj", "{C0609243-52B0-4EB2-B9BB-229C3F52E814}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.ThePartyReservationFilterModule", "11.ThePartyReservationFilterModule\11.ThePartyReservationFilterModule.csproj", "{CF405EA6-3B68-43E1-92F9-B47094A0E40C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11.ThePartyReservationFilterModule1", "11.ThePartyReservationFilterModule1\11.ThePartyReservationFilterModule1.csproj", "{4D28FFDE-719C-49DC-9163-41A472C2C591}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.ThePartyReservationFilterModule1", "11.ThePartyReservationFilterModule1\11.ThePartyReservationFilterModule1.csproj", "{4D28FFDE-719C-49DC-9163-41A472C2C591}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12.TriFunction", "12.TriFunction\12.TriFunction.csproj", "{DB752D4F-CE72-41F1-9568-6E2398E6EFFD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.TriFunction", "12.TriFunction\12.TriFunction.csproj", "{DB752D4F-CE72-41F1-9568-6E2398E6EFFD}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.TriFunction1", "12.TriFunction1\12.TriFunction1.csproj", "{EBA3B6B8-6155-4E93-90D8-A1800D0D1A14}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12.TriFunction1", "12.TriFunction1\12.TriFunction1.csproj", "{EBA3B6B8-6155-4E93-90D8-A1800D0D1A14}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -137,10 +135,6 @@ Global
 		{C0609243-52B0-4EB2-B9BB-229C3F52E814}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C0609243-52B0-4EB2-B9BB-229C3F52E814}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C0609243-52B0-4EB2-B9BB-229C3F52E814}.Release|Any CPU.Build.0 = Release|Any CPU
-		{CF405EA6-3B68-43E1-92F9-B47094A0E40C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CF405EA6-3B68-43E1-92F9-B47094A0E40C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CF405EA6-3B68-43E1-92F9-B47094A0E40C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CF405EA6-3B68-43E1-92F9-B47094A0E40C}.Release|Any CPU.Build.0 = Release|Any CPU
 		{4D28FFDE-719C-49DC-9163-41A472C2C591}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{4D28FFDE-719C-49DC-9163-41A472C2C591}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D28FFDE-719C-49DC-9163-41A472C2C591}.Release|Any CPU.ActiveCfg = Release|Any CPU
