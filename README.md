@@ -8,6 +8,8 @@ All lab problems and exercises from this module, including different cases in ex
 04.Streams-Files-and-Directories<br/>
 05.Functional-Programming<br/>
 06.Defining-Classes<br/>
-<br/>
-<br/>
-<br/>
+07.Implementing Linked List<br/>
+08.Generics<br/>
+09.Iterators and Comparators<br/>
+10.Exam preparation<br/>
+11.Algorithms Introduction<br/>
