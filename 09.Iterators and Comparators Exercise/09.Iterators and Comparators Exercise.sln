@@ -7,6 +7,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.ListyIterator", "01.List
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.Collection", "02.Collection\02.Collection.csproj", "{CB4825F9-6E45-4B0D-9217-ECF5D33A30B3}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.Stack", "03.Stack\03.Stack.csproj", "{765892A2-4D5E-4AD0-9AEE-E340E3C76E95}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.Froggy", "04.Froggy\04.Froggy.csproj", "{6B03D432-95A3-4803-8F49-4A15898145BD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{CB4825F9-6E45-4B0D-9217-ECF5D33A30B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CB4825F9-6E45-4B0D-9217-ECF5D33A30B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CB4825F9-6E45-4B0D-9217-ECF5D33A30B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{765892A2-4D5E-4AD0-9AEE-E340E3C76E95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{765892A2-4D5E-4AD0-9AEE-E340E3C76E95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{765892A2-4D5E-4AD0-9AEE-E340E3C76E95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{765892A2-4D5E-4AD0-9AEE-E340E3C76E95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B03D432-95A3-4803-8F49-4A15898145BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B03D432-95A3-4803-8F49-4A15898145BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B03D432-95A3-4803-8F49-4A15898145BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B03D432-95A3-4803-8F49-4A15898145BD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
