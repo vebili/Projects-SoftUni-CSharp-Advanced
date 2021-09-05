@@ -13,3 +13,4 @@ All lab problems and exercises from this module, including different cases in ex
 09.Iterators and Comparators<br/>
 10.Exam preparation<br/>
 11.Algorithms Introduction<br/>
+12.Exams<br/>
