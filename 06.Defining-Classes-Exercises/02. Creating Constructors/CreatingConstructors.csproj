@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <StartupObject>DefiningClasses.StartUp</StartupObject>
+    <StartupObject>CreatingConstructors.StartUp</StartupObject>
   </PropertyGroup>
 
 </Project>
