@@ -17,6 +17,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DateModifier", "05. Date Mo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DefineClass", "01. Define a Class Person\DefineClass.csproj", "{36F7D3D5-EDBA-4651-8D41-F5DB2BAF9F61}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CreatingConstructors", "02. Creating Constructors\CreatingConstructors.csproj", "{7209458B-6991-49BC-918A-A630091B0137}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{36F7D3D5-EDBA-4651-8D41-F5DB2BAF9F61}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{36F7D3D5-EDBA-4651-8D41-F5DB2BAF9F61}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{36F7D3D5-EDBA-4651-8D41-F5DB2BAF9F61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7209458B-6991-49BC-918A-A630091B0137}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7209458B-6991-49BC-918A-A630091B0137}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7209458B-6991-49BC-918A-A630091B0137}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7209458B-6991-49BC-918A-A630091B0137}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
