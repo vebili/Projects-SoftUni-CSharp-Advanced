@@ -3,8 +3,8 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <StartupObject>DefiningClasses.StartUp</StartupObject>
-    <AssemblyName>DefiningClasses</AssemblyName>
+    <StartupObject>DefineClass.StartUp</StartupObject>
+    <AssemblyName>DefineClass</AssemblyName>
   </PropertyGroup>
 
 </Project>

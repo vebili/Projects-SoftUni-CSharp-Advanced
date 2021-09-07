@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace DefiningClasses
+namespace DefineClass
 {
     public class StartUp
     {

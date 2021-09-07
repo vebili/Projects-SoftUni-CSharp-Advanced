@@ -15,7 +15,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpeedRacing", "06. Speed Ra
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DateModifier", "05. Date Modifier\DateModifier.csproj", "{D67572F9-85AF-4BD3-B6D0-F0907F104B25}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DefiningClasses", "01. Define a Class Person\DefiningClasses.csproj", "{36F7D3D5-EDBA-4651-8D41-F5DB2BAF9F61}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DefineClass", "01. Define a Class Person\DefineClass.csproj", "{36F7D3D5-EDBA-4651-8D41-F5DB2BAF9F61}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
