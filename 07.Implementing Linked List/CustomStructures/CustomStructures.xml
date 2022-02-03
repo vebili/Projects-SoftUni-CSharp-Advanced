@@ -1,0 +1,150 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CustomStructures</name>
+    </assembly>
+    <members>
+        <member name="T:CustomStructures.CustomList">
+            <summary>
+            Integer List
+            </summary>
+        </member>
+        <member name="F:CustomStructures.CustomList.defaultSize">
+            <summary>
+            Default size of internal array
+            </summary>
+        </member>
+        <member name="F:CustomStructures.CustomList.innerArr">
+            <summary>
+            Internal array
+            </summary>
+        </member>
+        <member name="P:CustomStructures.CustomList.Count">
+            <summary>
+            Number of elements in the list
+            </summary>
+        </member>
+        <member name="M:CustomStructures.CustomList.#ctor">
+            <summary>
+            Creates custom integer list 
+            with default size
+            </summary>
+        </member>
+        <member name="M:CustomStructures.CustomList.#ctor(System.Int32)">
+            <summary>
+            Creates custom integer list 
+            with initial size
+            </summary>
+            <param name="initialSize">Initial size 
+            of the list</param>
+        </member>
+        <member name="P:CustomStructures.CustomList.Item(System.Int32)">
+            <summary>
+            Custom list indexer
+            </summary>
+            <param name="index">Index of the element to access</param>
+            <returns></returns>
+        </member>
+        <member name="M:CustomStructures.CustomList.Add(System.Int32)">
+            <summary>
+            Adds element to the list
+            </summary>
+            <param name="element">Element to add</param>
+        </member>
+        <member name="M:CustomStructures.CustomList.AddRange(System.Int32[])">
+            <summary>
+            Adds many elements to the list
+            </summary>
+            <param name="list">Elements to add</param>
+        </member>
+        <member name="M:CustomStructures.CustomList.RemoveAt(System.Int32)">
+            <summary>
+            Removes element at position
+            </summary>
+            <param name="index">position</param>
+            <exception cref="T:System.IndexOutOfRangeException">The position is out of range</exception>
+        </member>
+        <member name="M:CustomStructures.CustomList.InsertAt(System.Int32,System.Int32)">
+            <summary>
+            Inserts element at certain position
+            </summary>
+            <param name="index">Position to insert to</param>
+            <param name="element">Element to insert</param>
+        </member>
+        <member name="M:CustomStructures.CustomList.Contains(System.Int32)">
+            <summary>
+            Whether list contains element
+            </summary>
+            <param name="element">Element to check for</param>
+            <returns></returns>
+        </member>
+        <member name="M:CustomStructures.CustomList.Swap(System.Int32,System.Int32)">
+            <summary>
+            Swaps two elements in the list
+            </summary>
+            <param name="firstIndex">Index of first element</param>
+            <param name="secondIndex">Index of second element</param>
+        </member>
+        <member name="M:CustomStructures.CustomList.Shrink">
+            <summary>
+            Shrinks the inner array
+            </summary>
+        </member>
+        <member name="M:CustomStructures.CustomList.ForEach(System.Action{System.Int32})">
+            <summary>
+            Iterates through the custom list
+            </summary>
+            <param name="action">Action to execute on each element</param>
+        </member>
+        <member name="T:CustomStructures.CustomStack">
+            <summary>
+            Custom Stack Implementation
+            </summary>
+        </member>
+        <member name="F:CustomStructures.CustomStack.defaultSize">
+            <summary>
+            Default size of internal array
+            </summary>
+        </member>
+        <member name="F:CustomStructures.CustomStack.innerArr">
+            <summary>
+            Internal array
+            </summary>
+        </member>
+        <member name="P:CustomStructures.CustomStack.Count">
+            <summary>
+            Number of elements in the stack
+            </summary>
+        </member>
+        <member name="M:CustomStructures.CustomStack.#ctor">
+            <summary>
+            Creates stack with default size of the inner array
+            </summary>
+        </member>
+        <member name="M:CustomStructures.CustomStack.Push(System.Int32)">
+            <summary>
+            Adds element to the top of the stack
+            </summary>
+            <param name="element">Element to add</param>
+        </member>
+        <member name="M:CustomStructures.CustomStack.Peek">
+            <summary>
+            Checks the element on the top of the stack,
+            without removing it
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:CustomStructures.CustomStack.Pop">
+            <summary>
+            Returns the top element of the stack and removes it
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:CustomStructures.CustomStack.ForEach(System.Action{System.Int32})">
+            <summary>
+            Iterates through the custom stack
+            </summary>
+            <param name="action">Action to execute on each element</param>
+        </member>
+    </members>
+</doc>
